@@ -1,0 +1,8 @@
+datasets
+models
+logs
+
+__pycache__
+
+
+*.mid
